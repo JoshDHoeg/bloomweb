@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Bloom Webapp
+            Bloom Webapp production
           </a>
         </header>
       </div>
